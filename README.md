@@ -128,6 +128,6 @@
 
 <div align="center">
     <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=Shyam-Makwana&color=lightgrey&style=plastic&&label=Profile+Views">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Shyam-Makwana&color=lightgrey&style=plastic&&label=Profile+Views">
     </a>
 </div>
