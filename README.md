@@ -12,7 +12,7 @@
 	<a href="https://www.linkedin.com/in/shyammakwana" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:makwanashyam6@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://twitter.com/ShyamMakwana_" target="_blank"><img src="https://img.icons8.com/bubbles/50/twitter-circled.png" alt="Twitter"/></a>
-	<a href="https://www.instagram.com/_sshyam" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/_sshyam_" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   <a href="https://www.facebook.com/ShyamMakwanaa/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://t.me/theShyam" target="_blank"><img src="https://img.icons8.com/bubbles/50/telegram-app.png" alt="Telegram"/></a>
 	<a href="https://discordapp.com/users/670571750622494752" target="_blank"><img src="https://img.icons8.com/bubbles/50/discord-logo.png" alt="Discord"/></a>
